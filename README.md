@@ -1,13 +1,17 @@
-<h1 align='center'>Hi 👋, I'm Raj shekar siya!</h1>
-<h3 align='center'>Aspiring Data Analyst</h3>
+img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%"/>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="animated gif"> I'm Raj shekar siya!</h1>
+<h2 align='center'>Data Scientist</h2>
 
-### Social Profiles
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raj-shekar-siya-b7265b206/)
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20beff?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/rajshekaresiya)
-
+### Connect with me:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)][(https://www.linkedin.com/in/raj-shekar-siya-b7265b206/)]
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20beff?style=flat&logo=Kaggle&logoColor=white)]([(https://www.kaggle.com/rajshekaresiya)]
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/RajshekarSiya1)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/rajshekarsiya62)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rajshekarsiya62@gmail.com)
+![](https://komarev.com/ghpvc/?username=Rajashekarsiya&label=PROFILE+VIEWS)
 ## Welcome, it's great to have you here! 👽
+I am a recent graduate with an MBA and a postgraduate degree in Data Science, specializing in advanced machine learning. Proficient in SQL for comprehensive data handling and skilled in dynamic visualizations using Tableau, Power BI, and Excel. Expertise in preprocessing, managing diverse data, and deploying advanced machine learning algorithms. Strong Python skills for complex data analysis and model development. Detail-oriented and committed to precision, with a track record of identifying trends and delivering impactful insights through data-driven projects. Eager to learn, contribute, and leverage data science tools for actionable business insights.
 
-I am a recent post Graduate from Data science with advanced Machine learning from Imarticaus learning with a strong interest in data science. Proficient in SQL for comprehensive data handling. <br> Skilled in dynamic visualizations via Tableau, Power BI, and Excel. Expertise in preprocessing, and managing diverse data. <br> Strong Python skills for advanced analysis. Detail-oriented, committed to precision. Demonstrated trend-spotting through impactful projects. Eager to learn, contribute, and leverage data science tools for insights. 
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -16,16 +20,15 @@ I am a recent post Graduate from Data science with advanced Machine learning fro
 </p>
 
 ## Technological Aspects:
-- 🛠 &nbsp; I’m currently learning Tableau, and Power BI.                                                                   
-- 👨‍💻 &nbsp; All of my projects are available on [Github](https://github.com/Rajashekarsiya)
+- 🛠 &nbsp; I’m currently learning Tableau, and Power BI. 
+- 👨‍💻 &nbsp; All of my projects are available on [Github](https://github.com/Rajashekarsiya/DataScience_Projects)
 - 💬 &nbsp; Ask me about ML, DL, Excel, SQL, Power BI, Python, Tableau
 - 📫 &nbsp; How to reach me rajshekarsiya62@gmail.com
-- 🧢 &nbsp; Intrested in AI and LLM<br>
-
-![](https://komarev.com/ghpvc/?username=Rajashekarsiya&label=PROFILE+VIEWS)
+- 🌱 &nbsp; Intrested in AI and LLM<br>
 
 ## 📊 GitHub Stats:
-<!--[viswa's github stats](https://github-readme-stats.vercel.app/api?username=viswasai11)-->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rajashekarsiya&show_icons=true&locale=en&layout=compact" alt="rajshekar" /></p>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Rajashekarsiya&theme=default)](https://git.io/streak-stats)<br/>
 
 ## 💻 Tech Stack:
@@ -81,16 +84,15 @@ I am a recent post Graduate from Data science with advanced Machine learning fro
   <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40" /> 
   </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/nolan/512/github.png" alt="git" width="40" height="40"/> 
+  </a>
 </div>
 
 #
 <div align="center">
-
+  
 ### Show some ❤️ by starring some of the repositories!
-
 </div>
 
-<!---
-Rajashekarsiya/Rajashekarsiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
