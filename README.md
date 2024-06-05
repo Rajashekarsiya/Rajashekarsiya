@@ -2,8 +2,7 @@
 <h3 align='center'>Aspiring Data Analyst</h3>
 
 ### Social Profiles
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/
-raj-shekar-siya-b7265b206)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raj-shekar-siya-b7265b206/)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20beff?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/rajshekaresiya)
 
 ## Welcome, it's great to have you here! 👽
