@@ -4,9 +4,9 @@
 
 ### Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)][(https://www.linkedin.com/in/raj-shekar-siya-b7265b206/)]
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20beff?style=flat&logo=Kaggle&logoColor=white)]([(https://www.kaggle.com/rajshekaresiya)]
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20beff?style=flat&logo=Kaggle&logoColor=white)][(https://www.kaggle.com/rajshekaresiya)]
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/RajshekarSiya1)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/rajshekarsiya62)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)[(https://www.hackerrank.com/profile/rajshekarsiya62)]
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rajshekarsiya62@gmail.com)
 ![](https://komarev.com/ghpvc/?username=Rajashekarsiya&label=PROFILE+VIEWS)
 ## Welcome, it's great to have you here! 👽
